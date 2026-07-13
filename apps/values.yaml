@@ -42,3 +42,8 @@ services:
     targetRevision: main
     labels:
       description:
+  t01-epics-gateways:
+    enabled: true
+    targetRevision: main
+    labels:
+      description:
